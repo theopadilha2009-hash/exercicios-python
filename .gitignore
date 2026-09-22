@@ -1,0 +1,33 @@
+# ==========================================
+# .gitignore - Projeto exercicios-python
+# ==========================================
+
+# 1. Bytecode e caches gerados pelo Python:
+# Não devem ser versionados pois são arquivos compilados gerados automaticamente
+# pelo interpretador Python (.pyc/.pyo) para otimização e dependem do ambiente.
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 2. Ambientes virtuais (Virtual Environments):
+# Ambientes isolados contêm binários específicos do sistema operacional e dependências
+# que devem ser instaladas localmente, nunca versionadas no repositório.
+.venv/
+venv/
+env/
+ENV/
+
+# 3. Metadados e arquivos temporários do sistema operacional (macOS / Linux / Windows):
+# Arquivos como .DS_Store e Thumbs.db guardam preferências visuais locais e poluem o versionamento.
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# 4. Configurações de ambientes de desenvolvimento (IDEs / Editores):
+# Configurações pessoais de IDEs (VS Code, PyCharm) variam por desenvolvedor e máquina.
+.vscode/
+.idea/
+
+# 5. Logs e relatórios temporários de execução:
+*.log
