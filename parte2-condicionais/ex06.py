@@ -1,4 +1,5 @@
 # Exercício 06 - Condicionais
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Peça um número e informe se ele é par ou ímpar.
 
 numero_informado = int(input("Digite um número inteiro: "))

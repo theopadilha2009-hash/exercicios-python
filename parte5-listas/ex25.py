@@ -1,4 +1,5 @@
 # Exercício 25 - Listas
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Dada a lista [3, 7, 1, 9, 4], exiba os itens na ordem inversa.
 # Nota técnica: Para demonstrar compreensão completa do controle de índices,
 # a inversão é produzida acessando diretamente as posições decrementais da coleção

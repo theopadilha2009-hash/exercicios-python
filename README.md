@@ -2,7 +2,7 @@
 
 ## Identificação
 - **Estudante:** Theo Lorentz Padilha
-- **Turma:** DSEM 2025/1
+- **Turma:** DSM3-25
 - **Unidade Curricular:** Programação de Aplicativos
 - **Curso:** Técnico em Desenvolvimento de Sistemas — Integrado ao Ensino Médio
 - **Docente:** Ewerton de Oliveira Cercal ([@ProfCercal](https://github.com/ProfCercal))

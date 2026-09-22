@@ -1,4 +1,5 @@
 # Exercício 18 - Repetição com for
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Calcule e exiba a soma de todos os números de 1 a 100.
 
 soma_total = 0

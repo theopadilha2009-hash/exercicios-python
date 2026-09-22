@@ -1,4 +1,5 @@
 # Exercício 03 - Variáveis, entrada e saída
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Peça o raio de um círculo e calcule a área. Use 3.14159 como valor de pi.
 
 raio_circulo = float(input("Digite o raio do círculo: "))

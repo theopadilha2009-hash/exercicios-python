@@ -1,4 +1,5 @@
 # Exercício 04 - Variáveis, entrada e saída
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Peça uma temperatura em graus Celsius e converta para Fahrenheit. A fórmula é F = C × 9 / 5 + 32.
 
 temperatura_celsius = float(input("Digite a temperatura em graus Celsius (°C): "))

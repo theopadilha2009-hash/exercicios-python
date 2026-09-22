@@ -1,4 +1,5 @@
 # Exercício 13 - Repetição com while
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Peça uma senha ao usuário e continue pedindo até que ele digite senai123.
 # Ao acertar, exiba "Acesso liberado".
 

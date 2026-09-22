@@ -1,4 +1,5 @@
 # Exercício 15 - Repetição com while
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Peça números ao usuário até que ele digite 0. Ao final, informe quantos números positivos foram digitados.
 
 quantidade_positivos = 0

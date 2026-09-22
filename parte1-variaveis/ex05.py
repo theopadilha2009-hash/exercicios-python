@@ -1,4 +1,5 @@
 # Exercício 05 - Variáveis, entrada e saída
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Peça o preço de um produto e a quantidade comprada. Exiba o valor total, com duas casas decimais.
 
 preco_unitario = float(input("Digite o preço do produto (R$): "))

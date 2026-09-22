@@ -1,4 +1,5 @@
 # Exercício 07 - Condicionais
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Peça dois números e exiba qual é o maior. Se forem iguais, informe isso.
 
 primeiro_numero = float(input("Digite o primeiro número: "))

@@ -1,4 +1,5 @@
 # Exercício 09 - Condicionais
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Peça a média de um estudante e classifique:
 # 6 ou mais é Aprovado; de 4 a 5,9 é Recuperação; abaixo de 4 é Reprovado.
 

@@ -1,4 +1,5 @@
 # Exercício 23 - Listas
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Usando a mesma lista, encontre e exiba o maior valor.
 
 lista_numeros = [14, 28, 35, 42, 56]

@@ -1,4 +1,5 @@
 # Exercício 19 - Repetição com for
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Peça um número e calcule seu fatorial. O fatorial de 5 é 5 × 4 × 3 × 2 × 1 = 120.
 
 numero_informado = int(input("Digite um número para calcular o fatorial: "))

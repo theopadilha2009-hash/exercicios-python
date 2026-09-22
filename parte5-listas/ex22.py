@@ -1,4 +1,5 @@
 # Exercício 22 - Listas
+# Estudante: Theo Lorentz Padilha - Turma: DSM3-25
 # Enunciado: Usando a lista do exercício anterior, calcule e exiba a soma de todos os itens.
 
 lista_numeros = [14, 28, 35, 42, 56]
